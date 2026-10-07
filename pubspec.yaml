@@ -1,0 +1,14 @@
+name: cookielessaudiences
+description: Dart client for the Cookieless Audiences API, with page-level audience segmentation, IAB content categorization and typed API errors.
+version: 1.0.0
+homepage: https://www.cookielessaudiences.com
+repository: https://github.com/explainableaixai/cookielessaudiences-dart
+issue_tracker: https://github.com/explainableaixai/cookielessaudiences-dart/issues
+documentation: https://www.cookielessaudiences.com/api.php
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  http: ^1.2.0
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.25.0
